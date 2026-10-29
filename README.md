@@ -1,5 +1,7 @@
 # pyxpo-device
 
+[![CI](https://github.com/pyxpo/pyxpo-device/actions/workflows/ci.yml/badge.svg)](https://github.com/pyxpo/pyxpo-device/actions/workflows/ci.yml) [![PyPI](https://img.shields.io/pypi/v/pyxpo-device)](https://pypi.org/project/pyxpo-device/) [![Python](https://img.shields.io/pypi/pyversions/pyxpo-device)](https://pypi.org/project/pyxpo-device/) [![License: MIT](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
+
 Facts about the device a [pyxpo](https://github.com/pyxpo/pyxpo) app runs on, written in Python: brand, model, OS
 and version, memory, CPU architectures, phone or tablet, uptime and Android system features. The names follow
 [expo-device](https://docs.expo.dev/versions/latest/sdk/device/), in Python style.
