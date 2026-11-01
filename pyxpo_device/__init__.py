@@ -22,7 +22,7 @@ from typing import Any, Dict, List, Optional
 
 from pyxpo.module_api import call, constants, platform, require_linked
 
-__version__ = "0.1.0a1"
+__version__ = "0.1.0a2"
 
 # Number.MAX_SAFE_INTEGER: what expo-device returns when memory has no inherent limit.
 MAX_SAFE_INTEGER = 2 ** 53 - 1
